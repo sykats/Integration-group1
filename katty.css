@@ -1,0 +1,44 @@
+body {
+	font-family: "Roboto";
+}
+#container-Projects {
+background-color: black;
+}
+.tittle {
+	text-align: center;
+	color:white;
+	font-family: 'Roboto';
+	font-size:30px;
+	margin: 0;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.center-pills {
+	display: inline-block;
+}
+.container-boxes {
+	margin: 30px;
+}
+.box-gold {
+	background-color: #FFD700;
+	margin-top: 50px;
+	padding: 15px;
+}
+.final-button {
+	margin-bottom: 50px;
+	border: solid 2px white;
+	border-radius: 5px;
+	padding-top: 20px;
+	padding-right:30px;
+	padding-left: 30px;
+	padding-bottom: 20px;
+	font-size: 20px;
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+
+ul li a {
+	color: white;
+}
+
