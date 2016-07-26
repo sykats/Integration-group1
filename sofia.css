@@ -1,0 +1,24 @@
+.container {
+	height: 300px;
+	width: 100%;
+	background-color: black;
+	color: white;
+	text-align: center;
+
+}
+
+#Sofia h3 {
+	margin-top: 50px;
+}
+.container_button {
+	border-color: white;
+	background-color: black;
+	color: white;
+	height: 40px;
+	width: 200px;
+	margin-top: 50px;
+}
+.deco_footer {
+	text-decoration: underline;
+}
+
