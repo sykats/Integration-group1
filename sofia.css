@@ -19,6 +19,10 @@
 	margin-top: 50px;
 }
 .deco_footer {
+	color:gray;
+}
+
+.deco_footer_links {
 	text-decoration: underline;
 }
 
