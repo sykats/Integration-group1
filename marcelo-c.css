@@ -1,0 +1,14 @@
+#marcecandil div.col-md-4{
+	font-family: Roboto;
+	text-align: center;
+	color: white;
+}
+#marcecandil .container{
+	width: 100%;
+	height: 200px;
+	background-color: #3D3A3A;
+
+}
+.row{
+	margin: 50px;
+}
