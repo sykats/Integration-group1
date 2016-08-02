@@ -9,7 +9,7 @@ body
 header
 {
 	height:100%;
-	background-image: url(bg.png)
+	background-image: url('Images/bg.png')
 }
 nav
 {
