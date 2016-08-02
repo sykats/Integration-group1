@@ -1,0 +1,21 @@
+.content-section{
+	background-color: #8E1BB2;
+	background-size: 100%;
+	margin-top: 0%;
+}
+
+.jumbotron{
+	background-size: 100%;
+	margin-top: 5%;
+  color: white;
+  background: transparent;
+  text-align: right;
+}
+
+.img-video{
+	border: 1px solid #FFFFFF;
+	background-size: 100%;
+	margin-top: 25%;
+  width: 100%;
+}
+
