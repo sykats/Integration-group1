@@ -1,0 +1,72 @@
+body {
+	font-family: "Roboto";
+}
+.container-Projects {
+	background-color: #333333;
+}
+
+.container-Projects .tittle {
+	text-align: center;
+	color: white;
+	font-size:40px;
+	margin: 0;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.container-Projects .center-pills {
+	display: inline-block;
+}
+.container-Projects .box-gold {
+	background-color: #FFD700;
+	margin-top: 50px;
+	padding: 15px;
+}
+.container-Projects .box-gold h3 {
+	font-weight: bold;
+}
+.container-Projects .final-button {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border: solid 2px white;
+	border-radius: 5px;
+	padding-top: 20px;
+	padding-right:30px;
+	padding-left: 30px;
+	padding-bottom: 20px;
+	font-size: 20px;
+	background-color: #333333;
+	color: white;
+	text-align: center;
+}
+.container-Projects .final-button:hover {
+	color: #FFD700;
+	border-color: #FFD700;
+}
+
+.container-Projects nav a {
+	color: white;
+	font-size: 18px;
+}
+.container-Projects nav .active-nav-item a {
+	color: #FFD700;
+	border-bottom-color: #FFD700;
+	border-bottom-style: solid;
+	border-radius: 0px;
+}
+.container-Projects nav a:hover {
+	background-color: inherit;
+	border-bottom-color: #FFD700;
+	border-bottom-style: solid;
+	border-radius: 0px;
+	color: white;
+}
+.container-Projects .container-boxes a {
+	color: black;
+	text-decoration: none;
+}
+.container-Projects .box-gold h3 {
+	min-height: 52px;
+}
+.container-Projects .box-gold .box-gold-subtext {
+	font-size: 17px;
+}
