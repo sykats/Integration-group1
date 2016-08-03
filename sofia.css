@@ -1,4 +1,4 @@
-.container {
+#Sofia .container {
 	height: 300px;
 	width: 100%;
 	background-color: black;
@@ -10,7 +10,7 @@
 #Sofia h3 {
 	margin-top: 50px;
 }
-.container_button {
+#Sofia .container_button {
 	border-color: white;
 	background-color: black;
 	color: white;
@@ -18,11 +18,11 @@
 	width: 200px;
 	margin-top: 50px;
 }
-.deco_footer {
+ #Sofia .deco_footer {
 	color:gray;
 }
 
-.deco_footer_links {
+ #Sofia .deco_footer_links {
 	text-decoration: underline;
 }
 
